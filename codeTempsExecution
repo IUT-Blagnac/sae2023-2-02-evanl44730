@@ -1,0 +1,4 @@
+double startTime = System.currentTimeMillis();
+        System.out.println(Exercice.solution(texte,ordre));
+        double endTime = System.currentTimeMillis();
+        System.out.println((endTime-startTime)+"ms");
